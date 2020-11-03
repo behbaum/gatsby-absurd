@@ -52,13 +52,11 @@ const Footer = () => (
         <FooterWrapper>
           <StyledContainer>
              <Copyright>
-              <h2>Kreditit</h2>
+              
               <span>
                 ©2020 Kreditit Germany
                 {` `}
-                <ExternalLink href="https://kreditit.de/">
-                  kreditit.de
-                </ExternalLink>
+                
               </span>
             </Copyright> 
             <SocialIcons>
